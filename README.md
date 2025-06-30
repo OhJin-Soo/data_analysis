@@ -4,4 +4,4 @@
 - 정확도: 0.79 (Kaggle Private Score 기준 Top 3%)
 
 🔗 kaggle 프로필: https://www.kaggle.com/codingmonster11
-📁 코드 보기: github.com/yourname/titanic-prediction
+📁 코드 보기: https://github.com/OhJin-Soo/data_analysis/blob/main/titanic_survived_RF_classification.ipynb
